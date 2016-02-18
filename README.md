@@ -2,7 +2,7 @@
 
 $npm install -g express-generator
 
-$npm express exp2015 --hbs
+$express exp2015 --hbs
 
 $cd exp2015
 
